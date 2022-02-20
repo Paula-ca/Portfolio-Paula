@@ -3175,7 +3175,13 @@ input[type=button].btn-block {
   padding: 0.25rem 1.5rem;
   color: #212529;
 }
-
+.btn-github {
+  width: 3rem;
+  border-radius: 100%;
+}
+.btn-github:hover {
+  background-color: #fff;
+}
 .btn-group,
 .btn-group-vertical {
   position: relative;
